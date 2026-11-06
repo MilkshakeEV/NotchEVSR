@@ -44,6 +44,10 @@ Open **Settings → Updates** and click **Check for Updates**. Updates install o
 time, and every download is verified against its signature before it's installed. You can roll
 back to the previous version from the same screen.
 
+If the app icon changed in an update and the Dock or Finder still shows the old one, macOS is
+showing a cached copy: it updates after you log out, or run
+`killall Dock Finder` in Terminal.
+
 ## Privacy
 
 No accounts, no tracking, nothing uploaded. The only network traffic is checking for and
