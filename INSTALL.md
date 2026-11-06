@@ -51,8 +51,15 @@ After that, just **hover over the notch** to open the panel.
 - The menu bar icon has Settings, Pause, Launch at Startup and Quit.
 - If you hide the menu bar icon, press **⌃⌥⌘N**, or open NotchEVSR from Applications, to get back to Settings.
 - Drag files onto the notch to park them on the **Shelf**, and drag them out later.
-- The **Split View** page shows up to six of these at once, for example music next to your calendar. Drag the
+- The **Split View** page shows up to five modules at once (not the Shelf), for example music next to your calendar. Drag the
   little handle at its bottom edge down for a second row.
+
+## Drop to Convert
+
+The Shelf page has a Convert zone: drop images, documents or PDFs on it to get PDFs or images,
+all on your Mac. It needs no permission. If you have Word, Excel, PowerPoint, Pages, Numbers or
+Keynote, macOS asks once (Automation) the first time one of them is used for a conversion; that's
+optional, and you can say no.
 
 ## Updating
 Open **Settings → Updates** (or the menu bar icon → **Check for Updates…**) and click
