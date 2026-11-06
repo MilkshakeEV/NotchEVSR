@@ -34,9 +34,10 @@ Hover over the notch to open it:
 - **Now Playing**: what's playing in any app, with controls
 - **Calendar**: your Apple Calendar, with countdowns and Join buttons
 - **Apps**: running apps and your own favourites
-- **Shelf**: park files and drag them out later, or send them with AirDrop
+- **Shelf**: park files and drag them out later, send them with AirDrop, or drop them on Convert to
+  turn them into a PDF, JPG or PNG, right on your Mac
 - **Temperatures**: CPU, GPU, battery and fans
-- **Split View**: up to six of these at once
+- **Split View**: up to five of the others at once
 
 ## Updates
 
