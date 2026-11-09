@@ -51,7 +51,7 @@ After that, just **hover over the notch** to open the panel.
 - The menu bar icon has Settings, Pause, Launch at Startup and Quit.
 - If you hide the menu bar icon, press **⌃⌥⌘N**, or open NotchEVSR from Applications, to get back to Settings.
 - Drag files onto the notch to park them on the **Shelf**, and drag them out later.
-- The **Split View** page shows up to five modules at once (not the Shelf), for example music next to your calendar. Drag the
+- The **Split View** page shows up to six modules at once (not the Shelf), for example music next to your calendar. Drag the
   little handle at its bottom edge down for a second row.
 
 ## Drop to Convert
@@ -62,11 +62,11 @@ Keynote, macOS asks once (Automation) the first time one of them is used for a c
 optional, and you can say no.
 
 ## Updating
-Open **Settings → Updates** (or the menu bar icon → **Check for Updates…**) and click
+Open **Settings → About** (called **Updates** in older versions; or the menu bar icon → **Check for Updates…**) and click
 **Check for Updates**. If a newer version exists you'll see it with its notes; click **Update**, then
 **Install & Restart**. Updates come one version at a time, in order, and every download is checked
 against its signature before it's installed. If something goes wrong, NotchEVSR puts the previous
-version back by itself, and **Roll back to previous version** in Settings → Updates undoes an update.
+version back by itself, and **Roll back to previous version** in Settings → About undoes an update.
 
 NotchEVSR checks about once a day on its own (you can turn that off). It never interrupts you: a
 small dot on the menu bar icon is the only sign that an update is waiting.
