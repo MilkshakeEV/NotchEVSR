@@ -35,14 +35,16 @@ Hover over the notch to open it:
 - **Calendar**: your Apple Calendar, with countdowns and Join buttons
 - **Apps**: running apps and your own favourites
 - **Shelf**: park files and drag them out later, send them with AirDrop, or drop them on Convert to
-  turn them into a PDF, JPG or PNG, right on your Mac
+  turn them into a PDF or an image (JPG, PNG, HEIC and more), right on your Mac
 - **Temperatures**: CPU, GPU, battery and fans
-- **Split View**: up to five of the others at once
+- **Camera**: a quick webcam glance before a call, off until you switch it on (preview only,
+  nothing is recorded; your Mac's camera light shows while it's on)
+- **Split View**: up to six of these at once
 
 ## Updates
 
-Open **Settings → Updates** and click **Check for Updates**. Updates install one version at a
-time, and every download is verified against its signature before it's installed. You can roll
+Open **Settings → About** (called **Updates** in older versions) and click **Check for Updates**.
+Updates install one version at a time, and every download is verified against its signature before it's installed. You can roll
 back to the previous version from the same screen.
 
 If the app icon changed in an update and the Dock or Finder still shows the old one, macOS is
